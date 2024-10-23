@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis Project
+# 📊 Sales Data Analysis Project Using Python
 
 In this project, I use **Python Pandas** and **Python Matplotlib** to analyze and answer business questions about **12 months'** worth of sales data. The dataset contains hundreds of thousands of purchases from an electronics store, broken down by month, product type, cost, purchase address, and more. 📈💻
 
